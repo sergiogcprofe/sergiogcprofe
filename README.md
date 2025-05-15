@@ -1,6 +1,7 @@
 <div id="top"></div>
 <div align="center" ><img width="50%" alt="welcome to my GitHub!" src="https://github.com/sergiogcprofe/sergiogcprofe/blob/main/assets/welcome_blue_nobkgrnd.png"></div>
 
+
 ## Sobre mí 👋
 
 Aquí podéis encontrar una breve presentación sobre mí:
