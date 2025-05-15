@@ -17,4 +17,5 @@ Aquí podéis encontrar una breve presentación sobre mí:
 
 ## Contacto y trayectoria profesional
 A través de mi LinkedIn
+[<img src="https://github.com/sergiogcprofe/sergiogcprofe/blob/main/assets/linkedin.png" height="40em" align="center" alt="Mi LinkedIn" title="Mi LinkedIn"/>](www.linkedin.com/in/sergio-garcía-castilla-4bb5301b)
 
