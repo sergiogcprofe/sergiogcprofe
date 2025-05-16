@@ -4,12 +4,11 @@
 
 ## Sobre mí 👋
 
-Aquí podéis encontrar una breve presentación sobre mí:
-
-- 😄 Me llamo Sergio García Castilla
-- Ingeniero Informático y **profesor**
+Hola! Me llamo Sergio García Castilla y...
+- Soy Ingeniero Informático y profesor de 
+- - 🔨 Actualmente trabajo como profesor de informática en Ciclos de FP en el IES Calderón de la Barca (Pinto)
 - Otras certificaciones
-- 🔨 Actualmente trabajo como profesor de informática en Ciclos de FP en el IES Calderón de la Barca (Pinto)
+
 - 🌱 Además estoy trabajando en el siguiente proyecto personal: Mochuelo Academy
 
 ## Tecnologías, lenguajes, herramientas... :hammer_and_wrench:
