@@ -6,8 +6,8 @@
 
 - 🎓​ Soy Ingeniero Informático y profesor de Formación Profesional. 
 - 🔨 Actualmente trabajo como profesor de informática en Ciclos de FP en el IES Calderón de la Barca (Pinto)
-- 🎖️​ Otras certificaciones: Project Management Professional (PMP),  Professional Scrum Master I (PSM I), Professional Scrum Product Owner I (PSPO I) 
-- 🌱 Además estoy trabajando en el siguiente proyecto personal: Mochuelo Academy
+- 🎖️​ Certificaciones: Project Management Professional (PMP),  Professional Scrum Master I (PSM I), Professional Scrum Product Owner I (PSPO I) 
+- 🌱 Ahora estoy trabajando en un proyecto personal para recopilar pruebas de concepto de distintas tecnologías que sirvan de apoyo durante el proceso de aprendizaje de mis alumnos. Puedes echar un ojo [aquí](https://github.com/sergiogcprofe/laboratorio) 🤓​​
 <br/>
 
 ## :hammer_and_wrench: Tecnologías, lenguajes, herramientas... 
@@ -37,6 +37,7 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
 </p>
 </br>
+
 ## 📬​ Contacto y trayectoria profesional
 A través de mi LinkedIn
 [<img src="https://github.com/sergiogcprofe/sergiogcprofe/blob/main/assets/linkedin.png" height="40em" align="center" alt="Mi LinkedIn" title="Mi LinkedIn"/>](https://www.linkedin.com/in/sergio-garcía-castilla-4bb5301b)
