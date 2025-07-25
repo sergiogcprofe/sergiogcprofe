@@ -4,8 +4,8 @@
 
 ## 👋 ¡Hola! Me llamo Sergio García Castilla
 
-- 🎓​ Soy Ingeniero Informático y profesor de Formación Profesional. 
-- 🔨 Actualmente trabajo como profesor de informática en Ciclos de FP en el IES Calderón de la Barca (Pinto)
+- 🎓​ Soy ingeniero informático y profesor.
+- 🔨 Actualmente trabajo como profesor de informática en ciclos de FP en el IES Calderón de la Barca (Pinto).
 - 🎖️​ Certificaciones: Project Management Professional (PMP),  Professional Scrum Master I (PSM I), Professional Scrum Product Owner I (PSPO I) 
 - 🌱 Ahora estoy trabajando en un proyecto personal para recopilar pruebas de concepto de distintas tecnologías que sirvan de apoyo durante el proceso de aprendizaje de mis alumnos. Puedes echar un ojo [aquí](https://github.com/sergiogcprofe/laboratorio) 🤓​​
 <br/>
